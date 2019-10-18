@@ -1,1 +1,1 @@
-Resultados de desafío Spike
+Respuestas del desafío Spike
